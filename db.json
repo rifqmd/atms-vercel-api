@@ -1,0 +1,191 @@
+{
+  "data": {
+    "entrances": [
+      {
+        "name_gt": "Merak",
+        "gt_number": 1
+      },
+      {
+        "name_gt": "Cilegon",
+        "gt_number": 2
+      },
+      {
+        "name_gt": "Serang",
+        "gt_number": 3
+      },
+      {
+        "name_gt": "Balaraja",
+        "gt_number": 4
+      },
+      {
+        "name_gt": "Cikupa",
+        "gt_number": 5
+      },
+      {
+        "name_gt": "Bitung",
+        "gt_number": 6
+      },
+      {
+        "name_gt": "Karawaci",
+        "gt_number": 7
+      },
+      {
+        "name_gt": "Tangerang",
+        "gt_number": 8
+      },
+      {
+        "name_gt": "Kunciran 1-2",
+        "gt_number": 9
+      },
+      {
+        "name_gt": "Kunciran 3-7",
+        "gt_number": 10
+      },
+      {
+        "name_gt": "Karang Tengah",
+        "gt_number": 11
+      },
+      {
+        "name_gt": "Meruya Utara",
+        "gt_number": 12
+      },
+      {
+        "name_gt": "Meruya",
+        "gt_number": 13
+      },
+      {
+        "name_gt": "Kebon Jeruk",
+        "gt_number": 14
+      },
+      {
+        "name_gt": "Tomang",
+        "gt_number": 15
+      }
+    ],
+    "exits": [
+      {
+        "name_gt": "Merak",
+        "gt_number": 1
+      },
+      {
+        "name_gt": "Cilegon",
+        "gt_number": 2
+      },
+      {
+        "name_gt": "Serang",
+        "gt_number": 3
+      },
+      {
+        "name_gt": "Balaraja",
+        "gt_number": 4
+      },
+      {
+        "name_gt": "Cikupa",
+        "gt_number": 5
+      },
+      {
+        "name_gt": "Bitung",
+        "gt_number": 6
+      },
+      {
+        "name_gt": "Karawaci",
+        "gt_number": 7
+      },
+      {
+        "name_gt": "Tangerang",
+        "gt_number": 8
+      },
+      {
+        "name_gt": "Kunciran 1-2",
+        "gt_number": 9
+      },
+      {
+        "name_gt": "Kunciran 3-7",
+        "gt_number": 10
+      },
+      {
+        "name_gt": "Karang Tengah",
+        "gt_number": 11
+      },
+      {
+        "name_gt": "Meruya Utara",
+        "gt_number": 12
+      },
+      {
+        "name_gt": "Meruya",
+        "gt_number": 13
+      },
+      {
+        "name_gt": "Kebon Jeruk",
+        "gt_number": 14
+      },
+      {
+        "name_gt": "Tomang",
+        "gt_number": 15
+      }
+    ],
+    "rates": [
+      {
+        "from_entrance": "",
+        "to_exit": "",
+        "rates_vehicle_class": {
+          "gol1": 2000,
+          "gol2": 3000,
+          "gol3": 4000,
+          "gol4": 5000,
+          "gol5": 6000
+        }
+      }
+    ]
+  },
+  "berita": [
+    {
+      "judul": "Pengendara Sepeda Motor Perempuan Tanpa Helm Masuk Tol Tangerang-MerakPengendara Sepeda Motor Perempuan Tanpa Helm Masuk Tol Tangerang-Merak",
+      "tanggal": "06-06-2023",
+      "penulis": "Rasyid Ridho",
+      "penerbit": "Kompas",
+      "kategori": "Regional",
+      "gambar": "https://asset.kompas.com/crops/0khgPnZlxSKhiIP40q_BNpAM9iI=/0x0:0x0/750x500/data/photo/2023/06/06/647ef6a18a363.jpg"
+    },
+    {
+      "judul": "Selasa Ini, Tarif Tol Bakter Kembali Normal, Cek Besarannya",
+      "tanggal": "06-06-2023",
+      "penulis": "Suhaiela Bahfein",
+      "penerbit": "Kompas",
+      "kategori": "Berita",
+      "gambar": "https://asset.kompas.com/crops/vssEhsILXdH8mB7eM9SEqQUEpRk=/1x0:1277x851/750x500/data/photo/2020/03/20/5e74881dc40a0.jpeg"
+    },
+    {
+      "judul": "Selama Long Weekend, 482.363 Kendaraan Tinggalkan Jabotabek Via Tol",
+      "tanggal": "03-06-2023",
+      "penulis": "Haryanti Puspa Sari",
+      "penerbit": "Kompas",
+      "kategori": "Berita",
+      "gambar": "https://asset.kompas.com/crops/vssEhsILXdH8mB7eM9SEqQUEpRk=/1x0:1277x851/750x500/data/photo/2020/03/20/5e74881dc40a0.jpeg"
+    },
+    {
+      "judul": "Penerapan Sistem Transaksi Tol Nontunai Nirsentuh Dipastikan Jalan Terus",
+      "tanggal": "30-05-2023",
+      "penulis": "Septian Deny",
+      "penerbit": "Liputan6",
+      "kategori": "Ekonomi",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/3TFSDCeLCweG7jkNJ8xmMhQ27rs=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2855815/original/031470000_1563353074-20190717-Sistem-Transaksi-Jalan-Tol-Tanpa-Henti-ANGGA-5.jpg"
+    },
+    {
+      "judul": "Salah Setting Google Maps, Pesepeda Motor Asal Sampang Masuk Tol Menuju Gresik",
+      "tanggal": "23-05-2023",
+      "penulis": "Dian Kurniawan",
+      "penerbit": "Liputan6",
+      "kategori": "Regional",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/RySMq6PTcSiiI1ALnpzF2EKBjAU=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4436822/original/094586700_1684803595-IMG_20230523_074602.jpg"
+    },
+    {
+      "judul": "Siap-siap! Tarif Tol Medan-Binjai Naik dalam Waktu Dekat",
+      "tanggal": "04-05-2023",
+      "penulis": "Achmad Dwy Afriyadi",
+      "penerbit": "Detik",
+      "kategori": "Ekonomi",
+      "gambar": "https://akcdn.detik.net.id/community/media/visual/2022/09/19/tol-medan-binjai-stabat-2_169.jpeg?w=700&q=90"
+    }
+  ]
+}
