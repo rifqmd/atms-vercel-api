@@ -1,191 +1,344 @@
 {
-  "data": {
-    "entrances": [
-      {
-        "name_gt": "Merak",
-        "gt_number": 1
-      },
-      {
-        "name_gt": "Cilegon",
-        "gt_number": 2
-      },
-      {
-        "name_gt": "Serang",
-        "gt_number": 3
-      },
-      {
-        "name_gt": "Balaraja",
-        "gt_number": 4
-      },
-      {
-        "name_gt": "Cikupa",
-        "gt_number": 5
-      },
-      {
-        "name_gt": "Bitung",
-        "gt_number": 6
-      },
-      {
-        "name_gt": "Karawaci",
-        "gt_number": 7
-      },
-      {
-        "name_gt": "Tangerang",
-        "gt_number": 8
-      },
-      {
-        "name_gt": "Kunciran 1-2",
-        "gt_number": 9
-      },
-      {
-        "name_gt": "Kunciran 3-7",
-        "gt_number": 10
-      },
-      {
-        "name_gt": "Karang Tengah",
-        "gt_number": 11
-      },
-      {
-        "name_gt": "Meruya Utara",
-        "gt_number": 12
-      },
-      {
-        "name_gt": "Meruya",
-        "gt_number": 13
-      },
-      {
-        "name_gt": "Kebon Jeruk",
-        "gt_number": 14
-      },
-      {
-        "name_gt": "Tomang",
-        "gt_number": 15
-      }
-    ],
-    "exits": [
-      {
-        "name_gt": "Merak",
-        "gt_number": 1
-      },
-      {
-        "name_gt": "Cilegon",
-        "gt_number": 2
-      },
-      {
-        "name_gt": "Serang",
-        "gt_number": 3
-      },
-      {
-        "name_gt": "Balaraja",
-        "gt_number": 4
-      },
-      {
-        "name_gt": "Cikupa",
-        "gt_number": 5
-      },
-      {
-        "name_gt": "Bitung",
-        "gt_number": 6
-      },
-      {
-        "name_gt": "Karawaci",
-        "gt_number": 7
-      },
-      {
-        "name_gt": "Tangerang",
-        "gt_number": 8
-      },
-      {
-        "name_gt": "Kunciran 1-2",
-        "gt_number": 9
-      },
-      {
-        "name_gt": "Kunciran 3-7",
-        "gt_number": 10
-      },
-      {
-        "name_gt": "Karang Tengah",
-        "gt_number": 11
-      },
-      {
-        "name_gt": "Meruya Utara",
-        "gt_number": 12
-      },
-      {
-        "name_gt": "Meruya",
-        "gt_number": 13
-      },
-      {
-        "name_gt": "Kebon Jeruk",
-        "gt_number": 14
-      },
-      {
-        "name_gt": "Tomang",
-        "gt_number": 15
-      }
-    ],
-    "rates": [
-      {
-        "from_entrance": "",
-        "to_exit": "",
-        "rates_vehicle_class": {
-          "gol1": 2000,
-          "gol2": 3000,
-          "gol3": 4000,
-          "gol4": 5000,
-          "gol5": 6000
-        }
-      }
-    ]
-  },
-  "berita": [
+  "kementerian": [
     {
-      "judul": "Pengendara Sepeda Motor Perempuan Tanpa Helm Masuk Tol Tangerang-MerakPengendara Sepeda Motor Perempuan Tanpa Helm Masuk Tol Tangerang-Merak",
-      "tanggal": "06-06-2023",
-      "penulis": "Rasyid Ridho",
-      "penerbit": "Kompas",
-      "kategori": "Regional",
-      "gambar": "https://asset.kompas.com/crops/0khgPnZlxSKhiIP40q_BNpAM9iI=/0x0:0x0/750x500/data/photo/2023/06/06/647ef6a18a363.jpg"
+      "id": 4,
+      "kode": 4,
+      "nama": "DIR. ANGKUTAN DARAT",
+      "deskripsi": "DIREKTORAT ANGKUTAN",
+      "is_active": true
     },
     {
-      "judul": "Selasa Ini, Tarif Tol Bakter Kembali Normal, Cek Besarannya",
-      "tanggal": "06-06-2023",
-      "penulis": "Suhaiela Bahfein",
-      "penerbit": "Kompas",
-      "kategori": "Berita",
-      "gambar": "https://asset.kompas.com/crops/vssEhsILXdH8mB7eM9SEqQUEpRk=/1x0:1277x851/750x500/data/photo/2020/03/20/5e74881dc40a0.jpeg"
+      "kode": "3",
+      "nama": "DIR. PAJAK",
+      "deskripsi": "DIR PAJAK",
+      "is_active": false,
+      "id": 5
+    }
+  ],
+  "bptd": [
+    {
+      "id": 17,
+      "kode": "10",
+      "nama": "BPTD Wilayah X Provinsi Jawa Tengah & DIY",
+      "alamat": "Jl. Abdulrahman Saleh No.142.A, Kalibanteng Kidul, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50183",
+      "lat": "-7.5518891",
+      "lon": "110.8180345",
+      "is_active": true
     },
     {
-      "judul": "Selama Long Weekend, 482.363 Kendaraan Tinggalkan Jabotabek Via Tol",
-      "tanggal": "03-06-2023",
-      "penulis": "Haryanti Puspa Sari",
-      "penerbit": "Kompas",
-      "kategori": "Berita",
-      "gambar": "https://asset.kompas.com/crops/vssEhsILXdH8mB7eM9SEqQUEpRk=/1x0:1277x851/750x500/data/photo/2020/03/20/5e74881dc40a0.jpeg"
+      "id": 18,
+      "kode": "11",
+      "nama": "BPTD Wilayah XI Provinsi Jawa Timur",
+      "alamat": "JJGR+VV4, Unnamed Road, Sabowidoro, Trosobo, Kec. Taman, Kabupaten Sidoarjo, Jawa Timur 61257",
+      "lat": "-7.3728616",
+      "lon": "112.6422157",
+      "is_active": true
     },
     {
-      "judul": "Penerapan Sistem Transaksi Tol Nontunai Nirsentuh Dipastikan Jalan Terus",
-      "tanggal": "30-05-2023",
-      "penulis": "Septian Deny",
-      "penerbit": "Liputan6",
-      "kategori": "Ekonomi",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/3TFSDCeLCweG7jkNJ8xmMhQ27rs=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2855815/original/031470000_1563353074-20190717-Sistem-Transaksi-Jalan-Tol-Tanpa-Henti-ANGGA-5.jpg"
+      "id": 19,
+      "kode": "12",
+      "nama": "BPTD Wilayah XII Prov. Bali & Prov. NTB",
+      "alamat": "Renon, Jl. Raya Puputan No.150, Sumerta Kelod, Kec. Denpasar Tim., Kota Denpasar, Bali 80234",
+      "lat": "-8.6735323",
+      "lon": "115.2358854",
+      "is_active": true
     },
     {
-      "judul": "Salah Setting Google Maps, Pesepeda Motor Asal Sampang Masuk Tol Menuju Gresik",
-      "tanggal": "23-05-2023",
-      "penulis": "Dian Kurniawan",
-      "penerbit": "Liputan6",
-      "kategori": "Regional",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/RySMq6PTcSiiI1ALnpzF2EKBjAU=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4436822/original/094586700_1684803595-IMG_20230523_074602.jpg"
+      "id": 1,
+      "kode": "1",
+      "nama": "BPTD WIL. 1 PROVINSI ACEH",
+      "alamat": null,
+      "lat": null,
+      "lon": null,
+      "is_active": true
     },
     {
-      "judul": "Siap-siap! Tarif Tol Medan-Binjai Naik dalam Waktu Dekat",
-      "tanggal": "04-05-2023",
-      "penulis": "Achmad Dwy Afriyadi",
-      "penerbit": "Detik",
-      "kategori": "Ekonomi",
-      "gambar": "https://akcdn.detik.net.id/community/media/visual/2022/09/19/tol-medan-binjai-stabat-2_169.jpeg?w=700&q=90"
+      "id": 2,
+      "kode": "2",
+      "nama": "BPTD WIL. 2 PROVINSI SUMATERA UTARA",
+      "alamat": null,
+      "lat": null,
+      "lon": null,
+      "is_active": true
+    },
+    {
+      "id": 3,
+      "kode": "3",
+      "nama": "BPTD Wilayah III Provinsi Sumatera Barat",
+      "alamat": null,
+      "lat": null,
+      "lon": null,
+      "is_active": true
+    },
+    {
+      "id": 4,
+      "kode": "4",
+      "nama": "BPTD Wilayah IV Provinsi Riau dan Kepulauan Riau",
+      "alamat": "Jl. Dr. Sutomo No.88, Rintis, Kec. Lima Puluh, Kota Pekanbaru, Riau 28115",
+      "lat": "0.5299082",
+      "lon": "101.4562247",
+      "is_active": true
+    },
+    {
+      "id": 14,
+      "kode": "8",
+      "nama": "BPTD Wilayah VIII Provisi Banten",
+      "alamat": "Jl. Pelabuhan Merak, Merak, Tamansari, Kec. Pulomerak, Kota Cilegon, Banten 42438",
+      "lat": "-5.9326633",
+      "lon": "105.9983015",
+      "is_active": true
+    },
+    {
+      "id": 16,
+      "kode": "9",
+      "nama": "BPTD Wilayah IX Provinsi Jawa Barat",
+      "alamat": "Jl. Surya Sumantri No.92 Kel. Sukagalih Kec. Sukajadi, Kota Bandung, Jawa Barat 40164, Sukagalih, Kec. Sukajadi, Kota Bandung, Jawa Barat 40152",
+      "lat": "-6.8843472",
+      "lon": "107.5816654",
+      "is_active": true
+    },
+    {
+      "id": 20,
+      "kode": "5",
+      "nama": "BPTD Jambi",
+      "alamat": null,
+      "lat": null,
+      "lon": null,
+      "is_active": true
+    }
+  ],
+  "vendor": [
+    {
+      "id": 15,
+      "kode": "MRK",
+      "nama": "MARKTEL",
+      "deskripsi": "PT. MANUNGGALING RIZKY KARYATAMA TELNICS",
+      "logo_name": "202209230440371663908037.png",
+      "logo_url": "http://localhost:8000/storage/images/vendor/202209230440371663908037.png",
+      "is_active": true
+    },
+    {
+      "id": 33,
+      "kode": "PJI",
+      "nama": "PJI",
+      "deskripsi": "2",
+      "logo_name": "1",
+      "logo_url": "1",
+      "is_active": true
+    },
+    {
+      "id": 34,
+      "kode": "ZEF",
+      "nama": "ZEFF",
+      "deskripsi": "3",
+      "logo_name": "1",
+      "logo_url": "1",
+      "is_active": true
+    },
+    {
+      "id": 35,
+      "kode": "JVS",
+      "nama": "JAVIS",
+      "deskripsi": "4",
+      "logo_name": "1",
+      "logo_url": "1",
+      "is_active": true
+    },
+    {
+      "id": 36,
+      "kode": "PPM",
+      "nama": "PURIMET",
+      "deskripsi": "5",
+      "logo_name": "1",
+      "logo_url": "1",
+      "is_active": true
+    },
+    {
+      "id": 26,
+      "kode": "QTC",
+      "nama": "QUMICON",
+      "deskripsi": "PT. QUMICON",
+      "logo_name": "202209230637131663915033.png",
+      "logo_url": "http://localhost:8000/storage/images/vendor/202209230637131663915033.png",
+      "is_active": true
+    }
+  ],
+  "provinsi": [
+    {
+      "id": 1,
+      "kode": "11",
+      "nama": "ACEH",
+      "is_active": true
+    },
+    {
+      "id": 2,
+      "kode": "12",
+      "nama": "SUMATERA UTARA",
+      "is_active": true
+    },
+    {
+      "id": 3,
+      "kode": "13",
+      "nama": "SUMATERA BARAT",
+      "is_active": true
+    },
+    {
+      "id": 6,
+      "kode": "14",
+      "nama": "RIAU",
+      "is_active": true
+    },
+    {
+      "id": 15,
+      "kode": "15",
+      "nama": "JAMBI",
+      "is_active": true
+    },
+    {
+      "id": 16,
+      "kode": "16",
+      "nama": "SUMATERA SELATAN",
+      "is_active": true
+    },
+    {
+      "id": 17,
+      "kode": "17",
+      "nama": "BENGKULU",
+      "is_active": true
+    },
+    {
+      "id": 18,
+      "kode": "18",
+      "nama": "LAMPUNG",
+      "is_active": true
+    },
+    {
+      "id": 19,
+      "kode": "19",
+      "nama": "KEPULAUAN BANGKA BELITUNG",
+      "is_active": true
+    },
+    {
+      "id": 21,
+      "kode": "21",
+      "nama": "KEPULAUAN RIAU",
+      "is_active": true
+    }
+  ],
+  "kotakab": [
+    {
+      "id": 1,
+      "is_active": true
+    }
+  ],
+  "lokasi": [
+    {
+      "id": 10,
+      "kode": "L100",
+      "nama": "SIMPANG 3 SAMPANG",
+      "lat": -7.562204,
+      "lon": 109.200981,
+      "is_active": true
+    },
+    {
+      "id": 11,
+      "kode": "L101",
+      "nama": "SIMPANG 4 KARANGNONGKO",
+      "lat": -7.865415,
+      "lon": 110.157031,
+      "is_active": true
+    },
+    {
+      "id": 12,
+      "kode": "L102",
+      "nama": "SIMPANG 4 WANGON",
+      "lat": -7.517131,
+      "lon": 109.056161,
+      "is_active": true
+    },
+    {
+      "id": 13,
+      "kode": "L103",
+      "nama": "Simpang 3 Klari",
+      "lat": -6.35331,
+      "lon": 107.34541,
+      "is_active": true
+    },
+    {
+      "id": 14,
+      "kode": "L104",
+      "nama": "Simpang 4 Jembatan Johar",
+      "lat": -6.31235,
+      "lon": 107.31845,
+      "is_active": true
+    },
+    {
+      "id": 15,
+      "kode": "L105",
+      "nama": "Simpang 3 Dawuhan",
+      "lat": -6.4002,
+      "lon": 107.4436,
+      "is_active": true
+    },
+    {
+      "id": 16,
+      "kode": "L106",
+      "nama": "Simpang 3 Jatibarang",
+      "lat": -6.48804,
+      "lon": 108.30879,
+      "is_active": true
+    },
+    {
+      "id": 17,
+      "kode": "L107",
+      "nama": "Simpang 3 Lingkar Tanjungpura",
+      "lat": -6.27654,
+      "lon": 107.27409,
+      "is_active": true
+    },
+    {
+      "id": 18,
+      "kode": "L108",
+      "nama": "SIMPANG 4 DPRD",
+      "lat": -6.30158,
+      "lon": 107.30315,
+      "is_active": true
+    },
+    {
+      "id": 19,
+      "kode": "L109",
+      "nama": "Simpang 3 PENGADILAN",
+      "lat": -6.29542,
+      "lon": 107.30315,
+      "is_active": true
+    }
+  ],
+  "jenisperangkat": [
+    {
+      "id": 1,
+        "kode": "6969",
+        "nama": "testing",
+        "deskripsi": "testing",
+        "is_active": true,
+        "created_at": "2023-11-09T10:24:48.000Z"
+    }
+  ],
+  "perangkat":[
+    {
+      "id": 237,
+      "lokasi_id": 123,
+      "gateway_routing_id": 1234,
+      "kode": "perangkat1234",
+      "nama": "Nama Perangkat",
+      "kode_perangkat": "kode123",
+      "deskripsi": "Deskripsi Perangkat",
+      "is_active": true,
+      "ip_address": "192.168.1.1",
+      "ip_subnet": "255.255.255.0",
+      "ip_gateway": "192.168.1.254",
+      "ip_dns": "8.8.8.8",
+      "created_at": "2023-11-08T09:32:07.637Z"
     }
   ]
+
 }
