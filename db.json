@@ -316,14 +316,14 @@
   "jenisperangkat": [
     {
       "id": 1,
-        "kode": "6969",
-        "nama": "testing",
-        "deskripsi": "testing",
-        "is_active": true,
-        "created_at": "2023-11-09T10:24:48.000Z"
+      "kode": "6969",
+      "nama": "testing",
+      "deskripsi": "testing",
+      "is_active": true,
+      "created_at": "2023-11-09T10:24:48.000Z"
     }
   ],
-  "perangkat":[
+  "perangkat": [
     {
       "id": 237,
       "lokasi_id": 123,
@@ -339,6 +339,67 @@
       "ip_dns": "8.8.8.8",
       "created_at": "2023-11-08T09:32:07.637Z"
     }
+  ],
+  "controlmanagement": [
+    {
+      "id": "1",
+      "name": "Marktel",
+      "email": "marktel.rnd@gmail.com"
+    },
+    {
+      "id": "45",
+      "name": "NHPURNOMO",
+      "email": "nh.purnomo@gmail.com"
+    },
+    {
+      "id": "44",
+      "name": "Novie Hari P",
+      "email": "noviehp@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "UserBiasa",
+      "email": "user@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Admin Atms",
+      "email": "admin@gmail.com"
+    },
+    {
+      "id": "46",
+      "name": "user2",
+      "email": "user2@email.com"
+    },
+    {
+      "id": "47",
+      "name": "user3",
+      "email": "user3@email.com"
+    },
+    {
+      "id": "48",
+      "name": "user4",
+      "email": "user4@email.com"
+    },
+    {
+      "id": "49",
+      "name": "user5",
+      "email": "user5@email.com"
+    },
+    {
+      "id": "50",
+      "name": "user6",
+      "email": "user6@email.com"
+    },
+    {
+      "id": "51",
+      "name": "user7",
+      "email": "user7@email.com"
+    },
+    {
+      "id": "53",
+      "name": "user10",
+      "email": "user10@email.com"
+    }
   ]
-
 }
