@@ -227,7 +227,17 @@
   ],
   "kotakab": [
     {
-      "id": 1,
+      "id": 10,
+      "provinsi_id": 11,
+      "kode": "111",
+      "nama": "KOTA ACEH BARAT",
+      "is_active": true
+    },
+    {
+      "id": 11,
+      "provinsi_id": 11,
+      "kode": "112",
+      "nama": "KOTA ACEH TIMUR",
       "is_active": true
     }
   ],
