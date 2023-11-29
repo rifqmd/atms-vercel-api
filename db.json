@@ -376,5 +376,37 @@
       "role": "executive"
     },
     { "id": 5, "nama": "Rehan", "email": "rehan@gmail.com", "role": "operator" }
+  ],
+  "role": [
+    [
+      {
+        "id": 1,
+        "kode_role": "1",
+        "nama_role": "Admin",
+        "Deskripsi": "Memiliki hak akses untuk mengelola seluruh aktivitas yang tersedia di website",
+        "Status": "Aktif"
+      },
+      {
+        "id": 2,
+        "kode_role": "2",
+        "nama_role": "Petugas",
+        "Deskripsi": "Memiliki hak akses untuk mengelola berbagai sistem CRUD yang tersedia di website",
+        "Status": "Aktif"
+      },
+      {
+        "id": 3,
+        "kode_role": "3",
+        "nama_role": "Vendor",
+        "Deskripsi": "Memiliki hak akses untuk mengelola berbagai sistem CRUD berkaitan dengan vendor",
+        "Status": "Aktif"
+      },
+      {
+        "id": 4,
+        "kode_role": "4",
+        "nama_role": "Guest",
+        "Deskripsi": "Memiliki hak akses untuk melihat dashboard executive yang dipilih",
+        "Status": "Aktif"
+      }
+    ]
   ]
 }
