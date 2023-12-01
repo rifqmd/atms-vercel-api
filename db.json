@@ -406,5 +406,35 @@
       "Deskripsi": "Memiliki hak akses untuk melihat dashboard executive yang dipilih",
       "Status": true
     }
+  ],
+  "permission": [
+    {
+      "id": 1,
+      "kode_permission": 1,
+      "nama_permission": "Trafficlight",
+      "deskripsi": "Dapat melihat jumlah trafficlight dan lokasi tiap per-wilayah",
+      "status": "true"
+    },
+    {
+      "id": 2,
+      "kode_permission": 2,
+      "nama_permission": "DMS",
+      "deskripsi": "Dapat melihat jumlah DMS dan lokasi tiap per-wilayah",
+      "status": "true"
+    },
+    {
+      "id": 3,
+      "kode_permission": 3,
+      "nama_permission": "DIS",
+      "deskripsi": "Dapat melihat jumlah DIS dan lokasi tiap per-wilayah",
+      "status": "true"
+    },
+    {
+      "id": 4,
+      "kode_permission": 4,
+      "nama_permission": "Tester",
+      "deskripsi": "Dapat melihat jumlah Tester dan lokasi tiap per-wilayah",
+      "status": "true"
+    }
   ]
 }
