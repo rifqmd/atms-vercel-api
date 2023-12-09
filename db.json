@@ -443,5 +443,25 @@
       "deskripsi": "Dapat melihat jumlah Tester dan lokasi tiap per-wilayah",
       "status": "true"
     }
+  ],
+  "laporanruas": [
+    {
+      "id": 1,
+      "tanggal": "2023-08-02",
+      "fase": "15",
+      "dk": "20",
+      "ts": 25,
+      "pa": "88",
+      "itp": 98
+    },
+    {
+      "id": 2,
+      "tanggal": "2023-12-02",
+      "fase": "18",
+      "dk": "12",
+      "ts": 23,
+      "pa": "75",
+      "itp": 88
+    }
   ]
 }
