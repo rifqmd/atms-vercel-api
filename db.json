@@ -353,58 +353,61 @@
   "akun": [
     {
       "id": 1,
-      "nama": "Rifqi",
-      "email": "rifqi@gmail.com",
-      "role": "superadmin"
+      "nama": "admin",
+      "email": "admin@gmail.com",
+      "role_id": 1,
+      "name_role": "Admin"
     },
     {
       "id": 2,
-      "nama": "Aldho",
-      "email": "aldho@gmail.com",
-      "role": "executive"
+      "nama": "exe",
+      "email": "exe@gmail.com",
+      "role_id": 2,
+      "name_role": "Executive"
     },
     {
       "id": 3,
-      "nama": "Dzakwan",
-      "email": "dzakwan@gmail.com",
-      "role": "operator"
+      "nama": "vencor",
+      "email": "vendor@gmail.com",
+      "role_id": 3,
+      "name_role": "Vendor"
     },
     {
-      "id": 4,
-      "nama": "Kafka",
-      "email": "kafka@gmail.com",
-      "role": "executive"
-    },
-    { "id": 5, "nama": "Rehan", "email": "rehan@gmail.com", "role": "operator" }
+      "id": 3,
+      "nama": "guest",
+      "email": "guest@gmail.com",
+      "role_id": 4,
+      "name_role": "Guest"
+    }
   ],
   "role": [
     {
       "id": 1,
-      "kode_role": "1",
-      "nama_role": "Admin",
-      "Deskripsi": "Memiliki hak akses untuk mengelola seluruh aktivitas yang tersedia di website",
-      "Status": true
+      "kode": "1",
+      "nama": "Admin",
+      "deskripsi": "Memiliki hak akses untuk mengelola seluruh aktivitas yang tersedia di website",
+      "is_active": true
     },
     {
       "id": 2,
-      "kode_role": "2",
-      "nama_role": "Vendor",
-      "Deskripsi": "Memiliki hak akses untuk mengelola berbagai sistem CRUD berkaitan dengan vendor",
-      "Status": true
+      "kode": "2",
+      "nama": "Executive",
+      "deskripsi": "Memiliki hak akses untuk melihat dashboard executive",
+      "is_active": true
     },
     {
       "id": 3,
-      "kode_role": "3",
-      "nama_role": "Petugas",
-      "Deskripsi": "Memiliki hak akses untuk mengelola berbagai sistem CRUD yang tersedia di website",
-      "Status": true
+      "kode": "3",
+      "nama": "Vendor",
+      "deskripsi": "Memiliki hak akses untuk mengelola berbagai sistem CRUD berkaitan dengan vendor",
+      "is_active": true
     },
     {
       "id": 4,
-      "kode_role": "4",
-      "nama_role": "Guest",
-      "Deskripsi": "Memiliki hak akses untuk melihat dashboard executive yang dipilih",
-      "Status": true
+      "kode": "4",
+      "nama": "Guest",
+      "deskripsi": "Memiliki hak akses untuk melihat dashboard executive yang dipilih",
+      "is_active": false
     }
   ],
   "permission": [
