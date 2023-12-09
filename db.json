@@ -356,28 +356,32 @@
       "nama": "admin",
       "email": "admin@gmail.com",
       "role_id": 1,
-      "name_role": "Admin"
+      "name_role": "Admin",
+      "is_active": true
     },
     {
       "id": 2,
       "nama": "exe",
       "email": "exe@gmail.com",
       "role_id": 2,
-      "name_role": "Executive"
+      "name_role": "Executive",
+      "is_active": true
     },
     {
       "id": 3,
       "nama": "vendor",
       "email": "vendor@gmail.com",
       "role_id": 3,
-      "name_role": "Vendor"
+      "name_role": "Vendor",
+      "is_active": false
     },
     {
       "id": 4,
       "nama": "guest",
       "email": "guest@gmail.com",
       "role_id": 4,
-      "name_role": "Guest"
+      "name_role": "Guest",
+      "is_active": true
     }
   ],
   "role": [
