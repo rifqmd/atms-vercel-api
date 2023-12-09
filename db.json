@@ -367,13 +367,13 @@
     },
     {
       "id": 3,
-      "nama": "vencor",
+      "nama": "vendor",
       "email": "vendor@gmail.com",
       "role_id": 3,
       "name_role": "Vendor"
     },
     {
-      "id": 3,
+      "id": 4,
       "nama": "guest",
       "email": "guest@gmail.com",
       "role_id": 4,
